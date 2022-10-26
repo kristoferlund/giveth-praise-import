@@ -1,0 +1,1442 @@
+[
+  {
+    "giver": {
+      "accountId": "288019500132073472",
+      "name": "mitch (🍔, 🍔)",
+      "avatarId": "f2a7e7eb583ccb9397f85406a3962ec3",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for asking an insightful question on the forum and being an engaged member of the community ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%E2%9D%A4praise",
+    "createdAt": "2021-10-30T22:00:00.000Z",
+    "giverRaw": "divine_comedian",
+    "receiverRaw": "Ewoud"
+  },
+  {
+    "giver": {
+      "accountId": "775821730412757024",
+      "name": "WhyldWanderer(Ashley)",
+      "avatarId": "8ca2addd0b28117f4d61e08cb548e5fd",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for project verification process feedback ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%E2%9D%A4praise",
+    "createdAt": "2021-11-06T23:00:00.000Z",
+    "giverRaw": "WhyldWanderer",
+    "receiverRaw": "Ewoud"
+  },
+  {
+    "giver": {
+      "accountId": "775821730412757024",
+      "name": "WhyldWanderer(Ashley)",
+      "avatarId": "8ca2addd0b28117f4d61e08cb548e5fd",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for joining today ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%E2%9D%A4praise",
+    "createdAt": "2021-12-01T23:00:00.000Z",
+    "giverRaw": "WhyldWanderer",
+    "receiverRaw": "Balasky"
+  },
+  {
+    "giver": {
+      "accountId": "786981379564240937",
+      "name": "mohammad_ranjbar_z",
+      "avatarId": "4c7a12fee8100fb8fd5d231f8feb1660",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "For using Digital ocean postgres in our staging env ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%E2%9D%A4praise",
+    "createdAt": "2021-12-15T23:00:00.000Z",
+    "giverRaw": "mohammad_ranjbar_z",
+    "receiverRaw": "Praise"
+  },
+  {
+    "giver": {
+      "accountId": "775821730412757024",
+      "name": "WhyldWanderer(Ashley)",
+      "avatarId": "8ca2addd0b28117f4d61e08cb548e5fd",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "@Lauren (💜, 🍔) for the great job you do for Giveth! <a:purplefire:782316134707625985> Merry Christmas! - from Rohekbenitez ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2021-12-23T23:00:00.000Z",
+    "giverRaw": "WhyldWanderer",
+    "receiverRaw": "La"
+  },
+  {
+    "giver": {
+      "accountId": "679389900440862722",
+      "name": "griff",
+      "avatarId": "None",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "@Lastperson for diving into auditing the GIVeconomy ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-01-19T23:00:00.000Z",
+    "giverRaw": "griff",
+    "receiverRaw": "La"
+  },
+  {
+    "giver": {
+      "accountId": "841574608313516052",
+      "name": "hanners717",
+      "avatarId": "c6f990d3e5ab2a065ee7ce072048c2c0",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "@Lauren for distributing swag, networking, and speaking on multiple panels at EthDenver. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-02-23T23:00:00.000Z",
+    "giverRaw": "hanners717",
+    "receiverRaw": "La"
+  },
+  {
+    "giver": {
+      "accountId": "775821730412757024",
+      "name": "WhyldWanderer(Ashley)",
+      "avatarId": "8ca2addd0b28117f4d61e08cb548e5fd",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for joining todays Community Call!! <:logo:809539267248259092> ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-03-09T23:00:00.000Z",
+    "giverRaw": "WhyldWanderer",
+    "receiverRaw": "Pasha Bergman"
+  },
+  {
+    "giver": {
+      "accountId": "841574608313516052",
+      "name": "hanners717",
+      "avatarId": "c6f990d3e5ab2a065ee7ce072048c2c0",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for her coming to her first Community Call for Giveth 💜 ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-04-06T22:00:00.000Z",
+    "giverRaw": "hanners717",
+    "receiverRaw": "Lexi18"
+  },
+  {
+    "giver": {
+      "accountId": "257589303352229891",
+      "name": "ahmad",
+      "avatarId": "d31bb9963309fad69e8a17428fa8e74b",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for joining the team (helping with QA and project delivery)! 🎉 ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-09T22:00:00.000Z",
+    "giverRaw": "ahmad",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "825651118452375553",
+      "name": "MoeShehab",
+      "avatarId": "0d899a098a1d6fe61c92a5ae1c09b6d4",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for jumping in, starting his first month. Getting to know his way around. Good luck 🤞🏼😎 ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-10T22:00:00.000Z",
+    "giverRaw": "MoeShehab",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "821056874291265566",
+      "name": "MoeNick",
+      "avatarId": "81669a6b5598084b9d71d2a9d8bbed02",
+      "platform": "DISCORD"
+    },
+    "reason": "for helping me with understanding the Project Workflows and being an excellent Mentor. !praise for giving me good start with my Induction/Offer Letter clarifications. !praise for being an excellent helper with all initial setups. !praise and Thanks for your Onboarding documents and helping with a smooth process for new hires. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-14T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "MoeNick"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "257589303352229891",
+      "name": "ahmad",
+      "avatarId": "d31bb9963309fad69e8a17428fa8e74b",
+      "platform": "DISCORD"
+    },
+    "reason": "for helping me with understanding the Project Workflows and being an excellent Mentor. !praise for giving me good start with my Induction/Offer Letter clarifications. !praise for being an excellent helper with all initial setups. !praise and Thanks for your Onboarding documents and helping with a smooth process for new hires. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-14T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "ahmad"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "825651118452375553",
+      "name": "MoeShehab",
+      "avatarId": "0d899a098a1d6fe61c92a5ae1c09b6d4",
+      "platform": "DISCORD"
+    },
+    "reason": "for helping me with understanding the Project Workflows and being an excellent Mentor. !praise for giving me good start with my Induction/Offer Letter clarifications. !praise for being an excellent helper with all initial setups. !praise and Thanks for your Onboarding documents and helping with a smooth process for new hires. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-14T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "MoeShehab"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "773534307288612885",
+      "name": "Nicbals",
+      "avatarId": "40f1d9dd38f5be60b8662da14c0bf5d9",
+      "platform": "DISCORD"
+    },
+    "reason": "for helping me with understanding the Project Workflows and being an excellent Mentor. !praise for giving me good start with my Induction/Offer Letter clarifications. !praise for being an excellent helper with all initial setups. !praise and Thanks for your Onboarding documents and helping with a smooth process for new hires. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-14T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "Nicbals"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "762291726768799774",
+      "name": "freshelle",
+      "avatarId": "6509a393de99475b42f45249a1b70e7c",
+      "platform": "DISCORD"
+    },
+    "reason": "for helping me with understanding the Project Workflows and being an excellent Mentor. !praise for giving me good start with my Induction/Offer Letter clarifications. !praise for being an excellent helper with all initial setups. !praise and Thanks for your Onboarding documents and helping with a smooth process for new hires. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-14T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "freshelle"
+  },
+  {
+    "giver": {
+      "accountId": "821056874291265566",
+      "name": "MoeNick",
+      "avatarId": "81669a6b5598084b9d71d2a9d8bbed02",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for being able to praise ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-14T22:00:00.000Z",
+    "giverRaw": "MoeNick",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "821056874291265566",
+      "name": "MoeNick",
+      "avatarId": "81669a6b5598084b9d71d2a9d8bbed02",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for spending their valuable time with us to get synced about hiring and also for finding as a talent. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-15T22:00:00.000Z",
+    "giverRaw": "MoeNick",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "821056874291265566",
+      "name": "MoeNick",
+      "avatarId": "81669a6b5598084b9d71d2a9d8bbed02",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for being a fast learner. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-15T22:00:00.000Z",
+    "giverRaw": "MoeNick",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "786981379564240937",
+      "name": "mohammad_ranjbar_z",
+      "avatarId": "4c7a12fee8100fb8fd5d231f8feb1660",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "For joining the team ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-15T22:00:00.000Z",
+    "giverRaw": "mohammad_ranjbar_z",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "667416830570266630",
+      "name": "Carlos096",
+      "avatarId": "8dfc15e36b5b88303e7dd0cb4a6be2c3",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for joining the tema! ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-15T22:00:00.000Z",
+    "giverRaw": "Carlos096",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "825651118452375553",
+      "name": "MoeShehab",
+      "avatarId": "0d899a098a1d6fe61c92a5ae1c09b6d4",
+      "platform": "DISCORD"
+    },
+    "reason": "for sharing knowledge on Metamask and few processes. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-15T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "MoeShehab"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "257589303352229891",
+      "name": "ahmad",
+      "avatarId": "d31bb9963309fad69e8a17428fa8e74b",
+      "platform": "DISCORD"
+    },
+    "reason": "for helping me with onboarding, clarification in offer letter and on going processes at Giveth. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-15T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "ahmad"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "841574608313516052",
+      "name": "hanners717",
+      "avatarId": "c6f990d3e5ab2a065ee7ce072048c2c0",
+      "platform": "DISCORD"
+    },
+    "reason": "for helping sort out my account and onboarding ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-15T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "hanners717"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "773534307288612885",
+      "name": "Nicbals",
+      "avatarId": "40f1d9dd38f5be60b8662da14c0bf5d9",
+      "platform": "DISCORD"
+    },
+    "reason": "and for helping with Giveth documents and helped with initial setup ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-15T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "Nicbals"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "762291726768799774",
+      "name": "freshelle",
+      "avatarId": "6509a393de99475b42f45249a1b70e7c",
+      "platform": "DISCORD"
+    },
+    "reason": "and for helping with Giveth documents and helped with initial setup ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-15T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "freshelle"
+  },
+  {
+    "giver": {
+      "accountId": "825651118452375553",
+      "name": "MoeShehab",
+      "avatarId": "0d899a098a1d6fe61c92a5ae1c09b6d4",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for joining the team and starting his trial month, keep it up buddy 😎 ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-15T22:00:00.000Z",
+    "giverRaw": "MoeShehab",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "825651118452375553",
+      "name": "MoeShehab",
+      "avatarId": "0d899a098a1d6fe61c92a5ae1c09b6d4",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for finding and growing the team in Dubai, yey. we're not alone in the desert anymore 😁 ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-15T22:00:00.000Z",
+    "giverRaw": "MoeShehab",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "257589303352229891",
+      "name": "ahmad",
+      "avatarId": "d31bb9963309fad69e8a17428fa8e74b",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for diving into the world of Giveth headfirst (hope you can swim) ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-15T22:00:00.000Z",
+    "giverRaw": "ahmad",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "773534307288612885",
+      "name": "Nicbals",
+      "avatarId": "40f1d9dd38f5be60b8662da14c0bf5d9",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for checking in on me this week !praise for the constant reminders and her valuable inputs in the onboarding process !praise for having her buddy call with Todd and for her input in the feedback form !praise for helping Jeevan on the Metamask bridging process !praise for joining the team !praise , and for filling out the self-ewview forms ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-15T22:00:00.000Z",
+    "giverRaw": "Nicbals",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "762291726768799774",
+      "name": "freshelle",
+      "avatarId": "6509a393de99475b42f45249a1b70e7c",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for joining the team! ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-15T22:00:00.000Z",
+    "giverRaw": "freshelle",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "404660802260566016",
+      "name": "willyfox",
+      "avatarId": "44cba604f046e12e21fdc4e58a8c31e7",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "everyone for joining today's community call ; best community ever 💜 ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-15T22:00:00.000Z",
+    "giverRaw": "willyfox",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "404660802260566016",
+      "name": "willyfox",
+      "avatarId": "44cba604f046e12e21fdc4e58a8c31e7",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "everyone for joining today's community call ; best community ever 💜 ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-15T22:00:00.000Z",
+    "giverRaw": "willyfox",
+    "receiverRaw": "swenea77(Jerusha)"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "841574608313516052",
+      "name": "hanners717",
+      "avatarId": "c6f990d3e5ab2a065ee7ce072048c2c0",
+      "platform": "DISCORD"
+    },
+    "reason": "for having a quick call and helping with all queries on onboarding ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-20T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "hanners717"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "821056874291265566",
+      "name": "MoeNick",
+      "avatarId": "81669a6b5598084b9d71d2a9d8bbed02",
+      "platform": "DISCORD"
+    },
+    "reason": "for being the best buddy and helping with product knowledge. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-20T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "MoeNick"
+  },
+  {
+    "giver": {
+      "accountId": "841574608313516052",
+      "name": "hanners717",
+      "avatarId": "c6f990d3e5ab2a065ee7ce072048c2c0",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for a fun check-in call and trouble shooting payment methods together! ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-20T22:00:00.000Z",
+    "giverRaw": "hanners717",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "821056874291265566",
+      "name": "MoeNick",
+      "avatarId": "81669a6b5598084b9d71d2a9d8bbed02",
+      "platform": "DISCORD"
+    },
+    "reason": "for helping with Verify Project queries. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-21T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "MoeNick"
+  },
+  {
+    "giver": {
+      "accountId": "821056874291265566",
+      "name": "MoeNick",
+      "avatarId": "81669a6b5598084b9d71d2a9d8bbed02",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for creating lots of issues last night ",
+    "sourceId": "DISCORD:679428761438912522:861692942645067777",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%91%8C%E2%94%8Ball-dev",
+    "createdAt": "2022-06-21T22:00:00.000Z",
+    "giverRaw": "MoeNick",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "775821730412757024",
+      "name": "WhyldWanderer(Ashley)",
+      "avatarId": "8ca2addd0b28117f4d61e08cb548e5fd",
+      "platform": "DISCORD"
+    },
+    "reason": "For wonderful orientation program and helping with lots of clarifications. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-21T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "WhyldWanderer"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "881861480591536170",
+      "name": "Nikola Creatrix",
+      "avatarId": "6869ba84baef0f95f94369695317d9f2",
+      "platform": "DISCORD"
+    },
+    "reason": "For great zeal to contribute to community. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-21T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "Nikola Creatrix"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "805467270762856490",
+      "name": "bends",
+      "avatarId": "a8cb02682bdcc263545a6fe1cf21de89",
+      "platform": "DISCORD"
+    },
+    "reason": "for great ideas to make better projects and help more people. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-21T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "bends"
+  },
+  {
+    "giver": {
+      "accountId": "775821730412757024",
+      "name": "WhyldWanderer(Ashley)",
+      "avatarId": "8ca2addd0b28117f4d61e08cb548e5fd",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for joining today's AMA call and asking great questions ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-21T22:00:00.000Z",
+    "giverRaw": "WhyldWanderer",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "692168538181599232",
+      "name": "Mateo (💜,💜)",
+      "avatarId": "5bb4158c7b7e6ebbb24d163e59150384",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for joining our team ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-22T22:00:00.000Z",
+    "giverRaw": "mateodaza",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "681846591249711150",
+      "name": "Cherik",
+      "avatarId": "3af063ddcc725b13eb24a650da720e09",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for being great tester and joining to the team ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-22T22:00:00.000Z",
+    "giverRaw": "Cherik",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "805467270762856490",
+      "name": "bends",
+      "avatarId": "a8cb02682bdcc263545a6fe1cf21de89",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for good convos on the community ama call ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-22T22:00:00.000Z",
+    "giverRaw": "bends",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "826746211335405568",
+      "name": "Ramin",
+      "avatarId": "7b31e05cba097be52d8a7fd7ba7b93af",
+      "platform": "DISCORD"
+    },
+    "reason": "for fixing bugs quickly and helping with environment to test. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-27T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "Ramin"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "821056874291265566",
+      "name": "MoeNick",
+      "avatarId": "81669a6b5598084b9d71d2a9d8bbed02",
+      "platform": "DISCORD"
+    },
+    "reason": "for assisting in my role and day to day works ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-27T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "MoeNick"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "786981379564240937",
+      "name": "mohammad_ranjbar_z",
+      "avatarId": "4c7a12fee8100fb8fd5d231f8feb1660",
+      "platform": "DISCORD"
+    },
+    "reason": "for helping with bugs and also VPN client access ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-27T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "mohammad_ranjbar_z"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "762291726768799774",
+      "name": "freshelle",
+      "avatarId": "6509a393de99475b42f45249a1b70e7c",
+      "platform": "DISCORD"
+    },
+    "reason": "For sorting out my payments issues very quickly. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-28T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "freshelle"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "841574608313516052",
+      "name": "hanners717",
+      "avatarId": "c6f990d3e5ab2a065ee7ce072048c2c0",
+      "platform": "DISCORD"
+    },
+    "reason": "For diligently updating my account related things and helping with a solution ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-28T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "hanners717"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "821056874291265566",
+      "name": "MoeNick",
+      "avatarId": "81669a6b5598084b9d71d2a9d8bbed02",
+      "platform": "DISCORD"
+    },
+    "reason": "For being patient and excellent in helping with my project works ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-28T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "MoeNick"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "826746211335405568",
+      "name": "Ramin",
+      "avatarId": "7b31e05cba097be52d8a7fd7ba7b93af",
+      "platform": "DISCORD"
+    },
+    "reason": "and for helping with fixing and clarifying the product issues. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-28T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "Ramin"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "786981379564240937",
+      "name": "mohammad_ranjbar_z",
+      "avatarId": "4c7a12fee8100fb8fd5d231f8feb1660",
+      "platform": "DISCORD"
+    },
+    "reason": "and for helping with fixing and clarifying the product issues. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-28T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "mohammad_ranjbar_z"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "681846591249711150",
+      "name": "Cherik",
+      "avatarId": "3af063ddcc725b13eb24a650da720e09",
+      "platform": "DISCORD"
+    },
+    "reason": "and for doing great job on staying late to resolve the blocker issues ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-30T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "Cherik"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "786981379564240937",
+      "name": "mohammad_ranjbar_z",
+      "avatarId": "4c7a12fee8100fb8fd5d231f8feb1660",
+      "platform": "DISCORD"
+    },
+    "reason": "and for doing great job on staying late to resolve the blocker issues ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-06-30T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "mohammad_ranjbar_z"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "288019500132073472",
+      "name": "mitch (🍔, 🍔)",
+      "avatarId": "f2a7e7eb583ccb9397f85406a3962ec3",
+      "platform": "DISCORD"
+    },
+    "reason": "for helping with ideas on templates for issue creation. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-04T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "divine_comedian"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "826746211335405568",
+      "name": "Ramin",
+      "avatarId": "7b31e05cba097be52d8a7fd7ba7b93af",
+      "platform": "DISCORD"
+    },
+    "reason": "for supporting in Grooming and Daily Syncs ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-04T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "Ramin"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "786981379564240937",
+      "name": "mohammad_ranjbar_z",
+      "avatarId": "4c7a12fee8100fb8fd5d231f8feb1660",
+      "platform": "DISCORD"
+    },
+    "reason": "for supporting in Grooming and Daily Syncs ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-04T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "mohammad_ranjbar_z"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "681846591249711150",
+      "name": "Cherik",
+      "avatarId": "3af063ddcc725b13eb24a650da720e09",
+      "platform": "DISCORD"
+    },
+    "reason": "for helping with fixing issues and in daily syncs ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-04T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "Cherik"
+  },
+  {
+    "giver": {
+      "accountId": "821056874291265566",
+      "name": "MoeNick",
+      "avatarId": "81669a6b5598084b9d71d2a9d8bbed02",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for attending the daily dav meeting and keep it alive during theses days. ",
+    "sourceId": "DISCORD:679428761438912522:861692942645067777",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%91%8C%E2%94%8Ball-dev",
+    "createdAt": "2022-07-06T22:00:00.000Z",
+    "giverRaw": "MoeNick",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "257589303352229891",
+      "name": "ahmad",
+      "avatarId": "d31bb9963309fad69e8a17428fa8e74b",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for keeping on track in their trial periods ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-13T22:00:00.000Z",
+    "giverRaw": "ahmad",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "841574608313516052",
+      "name": "hanners717",
+      "avatarId": "c6f990d3e5ab2a065ee7ce072048c2c0",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for our check-in call this week, which we will complete! ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-13T22:00:00.000Z",
+    "giverRaw": "hanners717",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "821056874291265566",
+      "name": "MoeNick",
+      "avatarId": "81669a6b5598084b9d71d2a9d8bbed02",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for being my backup during my absence. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-13T22:00:00.000Z",
+    "giverRaw": "MoeNick",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "492394339532800020",
+      "name": "Lauren (💜,💜 )",
+      "avatarId": "0764c3dbda1e43828f4d2db9b8213c85",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for his first shots at leading the dev calls, and for willingness on supporting GIVpower QA testing ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-13T22:00:00.000Z",
+    "giverRaw": "karmaticacid",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "717431823038414908",
+      "name": "paxthemax",
+      "avatarId": "fde6d49eca86804111d88a508061f73d",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for being useful ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-13T22:00:00.000Z",
+    "giverRaw": "paxthemax",
+    "receiverRaw": "Praise"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "821056874291265566",
+      "name": "MoeNick",
+      "avatarId": "81669a6b5598084b9d71d2a9d8bbed02",
+      "platform": "DISCORD"
+    },
+    "reason": "For sharing your inputs in Sprint Ceremonies and helping with project process. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-13T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "MoeNick"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "558340226842361867",
+      "name": "Alireza7612",
+      "avatarId": "8e7992a81fcde187d31a2116d0784f3f",
+      "platform": "DISCORD"
+    },
+    "reason": "For sharing your inputs in Sprint Ceremonies and helping with project process. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-13T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "Alireza7612"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "681846591249711150",
+      "name": "Cherik",
+      "avatarId": "3af063ddcc725b13eb24a650da720e09",
+      "platform": "DISCORD"
+    },
+    "reason": "For sharing your inputs in Sprint Ceremonies and helping with project process. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-13T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "Cherik"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "825651118452375553",
+      "name": "MoeShehab",
+      "avatarId": "0d899a098a1d6fe61c92a5ae1c09b6d4",
+      "platform": "DISCORD"
+    },
+    "reason": "For sharing your inputs in Sprint Ceremonies and helping with project process. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-13T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "MoeShehab"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "826746211335405568",
+      "name": "Ramin",
+      "avatarId": "7b31e05cba097be52d8a7fd7ba7b93af",
+      "platform": "DISCORD"
+    },
+    "reason": "For sharing your inputs in Sprint Ceremonies and helping with project process. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-13T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "Ramin"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "964268422072532992",
+      "name": "jessveroes",
+      "avatarId": "1431117dc9a123286efd301d9efcfd08",
+      "platform": "DISCORD"
+    },
+    "reason": "For sharing your inputs in Sprint Ceremonies and helping with project process. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-13T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "jessveroes"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "158621980084404224",
+      "name": "GiantKin",
+      "avatarId": "a5eb28ea3bc05dee245cd0b7fef455ca",
+      "platform": "DISCORD"
+    },
+    "reason": "For sharing your inputs in Sprint Ceremonies and helping with project process. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-13T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "Giantkin"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "288019500132073472",
+      "name": "mitch (🍔, 🍔)",
+      "avatarId": "f2a7e7eb583ccb9397f85406a3962ec3",
+      "platform": "DISCORD"
+    },
+    "reason": "For sharing your inputs in Sprint Ceremonies and helping with project process. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-13T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "divine_comedian"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "492394339532800020",
+      "name": "Lauren (💜,💜 )",
+      "avatarId": "0764c3dbda1e43828f4d2db9b8213c85",
+      "platform": "DISCORD"
+    },
+    "reason": "For sharing your inputs in Sprint Ceremonies and helping with project process. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-13T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "karmaticacid"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "786981379564240937",
+      "name": "mohammad_ranjbar_z",
+      "avatarId": "4c7a12fee8100fb8fd5d231f8feb1660",
+      "platform": "DISCORD"
+    },
+    "reason": "For sharing your inputs in Sprint Ceremonies and helping with project process. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-13T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "mohammad_ranjbar_z"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "798849374260035584",
+      "name": "Mo 🤖",
+      "avatarId": "ec6a310e46020dd63a938c2098d8038f",
+      "platform": "DISCORD"
+    },
+    "reason": "For sharing your inputs in Sprint Ceremonies and helping with project process. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-13T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "Mo 🤖"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "841574608313516052",
+      "name": "hanners717",
+      "avatarId": "c6f990d3e5ab2a065ee7ce072048c2c0",
+      "platform": "DISCORD"
+    },
+    "reason": "for having check in calls and giving a positive vibe as always. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-13T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "hanners717"
+  },
+  {
+    "giver": {
+      "accountId": "786981379564240937",
+      "name": "mohammad_ranjbar_z",
+      "avatarId": "4c7a12fee8100fb8fd5d231f8feb1660",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for working on Dapps during ETH conference ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-13T22:00:00.000Z",
+    "giverRaw": "mohammad_ranjbar_z",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "786981379564240937",
+      "name": "mohammad_ranjbar_z",
+      "avatarId": "4c7a12fee8100fb8fd5d231f8feb1660",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for Facilitating DEV calls during Moenick's absence ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-13T22:00:00.000Z",
+    "giverRaw": "mohammad_ranjbar_z",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "762291726768799774",
+      "name": "freshelle",
+      "avatarId": "6509a393de99475b42f45249a1b70e7c",
+      "platform": "DISCORD"
+    },
+    "reason": "For helping me with all queries and helping me even during her vacation. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-13T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "freshelle"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "492394339532800020",
+      "name": "Lauren (💜,💜 )",
+      "avatarId": "0764c3dbda1e43828f4d2db9b8213c85",
+      "platform": "DISCORD"
+    },
+    "reason": "for sharing about GIVpower and clarifying doubts. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-14T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "karmaticacid"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "639148955032354836",
+      "name": "Cotabe",
+      "avatarId": "75a43bb349c709d3735073a660655392",
+      "platform": "DISCORD"
+    },
+    "reason": "for nice thoughts on GIVpower. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-14T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "Cotabe"
+  },
+  {
+    "giver": {
+      "accountId": "492394339532800020",
+      "name": "Lauren (💜,💜 )",
+      "avatarId": "0764c3dbda1e43828f4d2db9b8213c85",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for helping to test GIVpower and coming up w/ great ideas to make this an awesome product launch ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-14T22:00:00.000Z",
+    "giverRaw": "karmaticacid",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "639148955032354836",
+      "name": "Cotabe",
+      "avatarId": "75a43bb349c709d3735073a660655392",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for optimizing the tests of our products ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-14T22:00:00.000Z",
+    "giverRaw": "Cotabe",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "426314998822731787",
+      "name": "geleeroyale",
+      "avatarId": "e9eddf1eceb2d43b85bbfd4ad7e6901e",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "and for dev coordination ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-20T22:00:00.000Z",
+    "giverRaw": "geleeroyale",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "288019500132073472",
+      "name": "mitch (🍔, 🍔)",
+      "avatarId": "f2a7e7eb583ccb9397f85406a3962ec3",
+      "platform": "DISCORD"
+    },
+    "reason": "for working on lots of Project issues. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-20T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "divine_comedian"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "821056874291265566",
+      "name": "MoeNick",
+      "avatarId": "81669a6b5598084b9d71d2a9d8bbed02",
+      "platform": "DISCORD"
+    },
+    "reason": "for being a good buddy and helping me. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-20T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "MoeNick"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "826746211335405568",
+      "name": "Ramin",
+      "avatarId": "7b31e05cba097be52d8a7fd7ba7b93af",
+      "platform": "DISCORD"
+    },
+    "reason": "for reverting with all clarifications that I ask. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-20T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "Ramin"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "786981379564240937",
+      "name": "mohammad_ranjbar_z",
+      "avatarId": "4c7a12fee8100fb8fd5d231f8feb1660",
+      "platform": "DISCORD"
+    },
+    "reason": "for reverting with all clarifications that I ask. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-20T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "mohammad_ranjbar_z"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "681846591249711150",
+      "name": "Cherik",
+      "avatarId": "3af063ddcc725b13eb24a650da720e09",
+      "platform": "DISCORD"
+    },
+    "reason": "for reverting with all clarifications that I ask. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-20T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "Cherik"
+  },
+  {
+    "giver": null,
+    "receiver": {
+      "accountId": "558340226842361867",
+      "name": "Alireza7612",
+      "avatarId": "8e7992a81fcde187d31a2116d0784f3f",
+      "platform": "DISCORD"
+    },
+    "reason": "for reverting with all clarifications that I ask. ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-20T22:00:00.000Z",
+    "giverRaw": "jeevankumar007",
+    "receiverRaw": "Alireza7612"
+  },
+  {
+    "giver": {
+      "accountId": "786981379564240937",
+      "name": "mohammad_ranjbar_z",
+      "avatarId": "4c7a12fee8100fb8fd5d231f8feb1660",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "For testing issues on staging ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-20T22:00:00.000Z",
+    "giverRaw": "mohammad_ranjbar_z",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "825651118452375553",
+      "name": "MoeShehab",
+      "avatarId": "0d899a098a1d6fe61c92a5ae1c09b6d4",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "& hope you guys get better soon ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-26T22:00:00.000Z",
+    "giverRaw": "MoeShehab",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "667416830570266630",
+      "name": "Carlos096",
+      "avatarId": "8dfc15e36b5b88303e7dd0cb4a6be2c3",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for being a great dev team! ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-27T22:00:00.000Z",
+    "giverRaw": "Carlos096",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "825651118452375553",
+      "name": "MoeShehab",
+      "avatarId": "0d899a098a1d6fe61c92a5ae1c09b6d4",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for being a great team ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-27T22:00:00.000Z",
+    "giverRaw": "MoeShehab",
+    "receiverRaw": "jeevankumar007"
+  },
+  {
+    "giver": {
+      "accountId": "841574608313516052",
+      "name": "hanners717",
+      "avatarId": "c6f990d3e5ab2a065ee7ce072048c2c0",
+      "platform": "DISCORD"
+    },
+    "receiver": null,
+    "reason": "for resting while he was sick with COVID. I hope you feel better! ",
+    "sourceId": "DISCORD:679428761438912522:823570903219568700",
+    "sourceName": "DISCORD%3AGiveth%3A%F0%9F%92%9C%E2%94%8Bpraise",
+    "createdAt": "2022-07-27T22:00:00.000Z",
+    "giverRaw": "hanners717",
+    "receiverRaw": "jeevankumar007"
+  }
+]
